@@ -1,1 +1,1 @@
-# Orange-Quality-Prediction
+# Orange Quality Prediction
